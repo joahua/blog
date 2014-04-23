@@ -1,0 +1,21 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>JavaScript return focus follow test</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<link rel="stylesheet" href="main.css" type="text/css">
+<script type="text/javascript" src="core.js"></script>
+</head>
+<body onload="document.getElementById('memberid').focus();fat('notice','ffffff','000000');">
+<p id="notice" class="addedperson">Linked <span class="name">John Doe</span> to card <span class="num">#1993864</span></p>
+<!--<p id="notice" class="error">Card error:<br /> <span class="num">#1993864</span> not found</p>
+<p id="notice" class="error">Member error:<br /> <span class="num">#1993864</span> not found</p>-->
+<form action="" method="get" autocomplete="off">
+<p>
+ <label for="memberid">Member ID: <input type="text" id="memberid" onkeypress="return catchEnter(event);" /></label><br />
+ <label for="cardid">Card ID: <input type="text" id="cardid" /></label></p>
+<p class="submit"><input type="submit" value="Submit" /></p>
+</form>
+<p id="credit"><a href="http://www.rawideas.com.au/">by Raw Ideas</a></p>
+</body>
+</html>

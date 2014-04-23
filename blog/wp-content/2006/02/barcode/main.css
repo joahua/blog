@@ -1,0 +1,70 @@
+* {
+	margin:0; padding:0; font-size:100.01%; font-family: Trebuchet MS, Helvetica, Arial, san-serif;
+}
+body {
+	background:#aaa;
+}
+form, #notice, #credit {
+	margin:1em auto;
+	border:1px solid #ccc;
+	-moz-border-radius:1em;
+	-moz-border-radius-topleft:0;
+	-moz-border-radius-bottomright:0;
+}
+#notice {
+	padding-left:5em;
+	width:14em;
+}
+#notice img {
+	float:left;
+	margin:.4em 1em 0 0;
+}
+#notice span.num {
+	font-size:2em;
+}
+#notice span.name {
+	font-weight:bold
+}
+.error {
+	background:#fff url(cross.png) 1em center no-repeat;
+}
+.addedperson {
+	background:#fff url(tick.png) 1em center no-repeat;
+}
+form {
+	width:20em;
+	background:#fff;
+}
+p {
+	padding:1em;
+}
+form label {
+	display:block;
+	position:relative;
+}
+form label input {
+	position:absolute;
+	right:1em;
+	border:1px solid #333
+}
+p.submit {
+	text-align:center;
+}
+p.submit input{
+	width: 15em;
+	background:#eee;
+	font-weight:bold;
+	border:1px solid #fff;
+}
+#credit {
+	padding:.2em 1em;
+	text-align:right;
+	width:18em;
+	color:#fff;
+	font-variant:small-caps;
+}
+#credit a {
+	color:#fff;
+	text-decoration:none;
+	font-size:0.7em
+}
