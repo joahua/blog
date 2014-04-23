@@ -13,7 +13,7 @@ tags:
 ---
 We currently have a strong dependency on SSI at work and were recently offered a nicely-specc&#8217;d Xserve that was being retired for use as an in-house preview server.
 
-I&#8217;ve got my doubts about SSI, but we have literally thousands of templates that require it for includes. It also functions in subtly different ways to PHP, and we&#8217;re not about to embark on any bulk conversions of our front-end templates into haml, jade, or whatever else is in vogue â€“ the legacy cost is to great.
+I&#8217;ve got my doubts about SSI, but we have literally thousands of templates that require it for includes. It also functions in subtly different ways to PHP, and we&#8217;re not about to embark on any bulk conversions of our front-end templates into haml, jade, or whatever else is in vogue – the legacy cost is too great.
 
 Apologia out of the way, we are using Mountain Lion&#8217;s in-built Apache 2.2 server after a trigger-happy rm -rf on my part killed a painstakingly crafted homebrew version implemented by a colleague.
 
