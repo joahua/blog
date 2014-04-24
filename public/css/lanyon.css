@@ -524,3 +524,13 @@ a.pagination-item:hover {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+.welcome {
+    margin-bottom: 3em;
+    color: grey;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 200;
+}
+.welcome p {
+    margin-bottom: 0;
+}
