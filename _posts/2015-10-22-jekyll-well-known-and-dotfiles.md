@@ -15,6 +15,6 @@ The solution is to add this to your `config.yml`:
 include: [".well-known"]
 ```
 
-Jekyll actually documents this [pretty clearly](http://jekyllrb.com/docs/configuration/) (search “Include” on that page) but I found mention of it on https://github.com/keybase/keybase-issues/issues/366 first.
+Jekyll actually documents this [pretty clearly](http://jekyllrb.com/docs/configuration/) (search “Include” on that page) but I found mention of it on [a Keybase issue](https://github.com/keybase/keybase-issues/issues/366) first.
 
 Given their documentation is focused on .htaccess files (haven’t used those/Apache for a while!) I thought I’d document here to optimize more for the search terms I was using!
