@@ -4,6 +4,8 @@ pygments:         true
 
 # Permalinks
 permalink:        pretty
+# Allow specific dot-prefixed things per https://github.com/keybase/keybase-issues/issues/366
+include: [".well-known"]
 
 # Setup
 title:            Josh
