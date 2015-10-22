@@ -11,7 +11,7 @@ As this is hosted on Github Pages (and I hadn’t published for ~2 years), I won
 The solution is to add this to your `config.yml`:
 
 ### _config.yml
-```yml
+```yaml
 include: [".well-known"]
 ```
 
