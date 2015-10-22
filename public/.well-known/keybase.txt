@@ -1,0 +1,77 @@
+==================================================================
+https://keybase.io/joahua
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://josh.st
+  * I am joahua (https://keybase.io/joahua) on keybase.
+  * I have a public key with fingerprint 3444 AD6A 4875 7E30 6430  7EC6 4703 ABD0 1D1A 83DC
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.8.23"
+        },
+        "key": {
+            "eldest_kid": "010195cd89d0d2e8ca5c33eebe974e6b70e213d039a4a76a7c6eb78abfb329eb07a00a",
+            "fingerprint": "3444ad6a48757e3064307ec64703abd01d1a83dc",
+            "host": "keybase.io",
+            "key_id": "4703abd01d1a83dc",
+            "kid": "010195cd89d0d2e8ca5c33eebe974e6b70e213d039a4a76a7c6eb78abfb329eb07a00a",
+            "uid": "b0fc74844bd5b44ea08ace7b01409919",
+            "username": "joahua"
+        },
+        "service": {
+            "hostname": "josh.st",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1445497585,
+    "expire_in": 157680000,
+    "prev": "6afea168fdde159c64216178a3a5ef4ef40ac2f30cc240fb69d644208984c126",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtUm1QVFUYXj5jwQ/KRh2SYbkOBiOu9+79JmOCxVYMnCZiMYLWc+89y96V7sLu
+skGKCtQkDokIktkwSRlfljSMEyiDixADARU42EygFTKRfFbSCGFI9zLU1Ew/O3N+
+nHnf533e533ec2qtl8rTw+B1cSA4qOiWR98EpzKGn/j1EMLZhDwk6hDCZ4pQciov
+CbwKkSjkIMzjgANqRZtGsglQa3VoVjGRiAvaHaJNklGoltHqcCQ/UsEr1TBTgA6n
+6aAoKFkMxViSFxhWQAUdZHhA8jgOIQdZmoAUR6NQh+ECirOAADQFaJ6CHM0Azszh
+OhZyKA1QFMgNzaKUAe1ZdlGRiOAEQQCBAgRDkzTEUYrAURryFEGjOOAEFBMwwOAC
+LxdabA7nv4ZBVpSaVuT9B/5/1p2zQsehZp4mGILgBJIjCAhQBvCQ5lCMQFkWYxWg
+A9pXjbfagCUHKJbKMZfIQ8VWZY6/8w6L1qGsIctuc9p4W6YctDidWY4opciZl6Wg
+XoOcabXexImSIBv4z8VhZTKUd4oKI0YQJMHSJENGIjA3S7RDk6hASJpiUPkojaBL
+5qSAGQKMYsyCADGSlQ3XYRQmz40DEpoJ+aKA15lxlOd1BGrmKFagCEKHMixD8JiO
+QpSRsiUbEoXLOkGGTOkQMyTgzLFDJL/Yc4u3ysNT5evjqXxNlb868K//etMYqLpU
+Fb85OLIwZPs1TWDoqZ21fdpO/WkvP8vkrh3db8Ql9Odc/jT09VTrsGro+5j090Y/
+JkYS7vs/0M/dul4D2aem9UOVY4a45K/cJ+paZoi0+CMBx9Nj99/vsi+QV/c+dxr/
+vGIwwnXlk9bY28ce/rDcvKe5w5Dv+2ZbQlL9TPy5/IIXj360fl+q+t3Q7Ownotep
+md9TLerWPXX9nU8WZW7YKml89BVD75zcP3zUJzooonpitM+7aV1Vty7sQP2+k8Nh
+HS+UNj3SHm3Qu7Mr73ywq3TzvGuRHpiqPtuRVhcZYHj4+LWNZ/zLt625eKGdt2qM
+S8/+WD/yTWxw8eHCNnWK1Ndc3X9ncOOmHZJ1fqnBKkXv5RMbzwf8dsZaUNndUqXf
+nv7haK6hfCb9+bIv7j4YmXV3vTJ3FyyYSoZr/BKNjhjs0lW/Nb+kGp95bJuUUHav
+kRwXlxNT1Mc++7lg7Lu0t7bkT1/uGlv4emvjgAoU/pFz4FzP29W1vVNSj9F34mxz
+0rePxowVHSktTO7hKlpA+G53Sdjiy5OdtW6PRSzZeCPky2LN8vpcYHO3NMW2eU/P
+bBq+1xAw+dN4V1x4P4rM1E+7x2dnl+b9l8zne9XXUxaDfZ5eq789UbFTdaG4u8TZ
+yy0nlR/e0FV8Y92VhputSRFVc66aoJKQID/qeKDz/XZzRc2gLz310p8=
+=0vgE
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joahua
+
+==================================================================
