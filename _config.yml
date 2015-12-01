@@ -24,3 +24,6 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/joahua/joshst
+
+gems:
+  - jekyll-feed
