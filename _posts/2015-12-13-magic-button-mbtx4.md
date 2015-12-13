@@ -25,6 +25,10 @@ Replacement time!
 
 The PCB's pretty generously spaced, probably because no-one wants a remote so tiny it gets lost. The surface mount buttons are pretty easy to work with. I ordered [this pack of 20 buttons](http://www.ebay.com.au/itm/310787954698) from an eBay seller (described as a "20pcs 6x3x4.3mm SMT SMD Momentary Micro Tact Tactile Push Button Switch" in the very likelihood the listing has vanished by the time you’re reading this… eBay, stop the bitrot!) for about $5 having measured up the button as being, well, vaguely that size. The buttons on my remote were black and these were white, but hey, it's behind a piece of rubber anyway. If anyone needs 19 SMD buttons and is in Sydney, holler at me - they're probably in a drawer somewhere.
 
+![Removed, faulty, switch](/blog/wp-content/2015/12/removed-faulty-switch.jpg)
+![Side-by-side switches. Doesn't matter if you're black or white.](/blog/wp-content/2015/12/side-by-side-switches.jpg)
+![New switch, poorly soldered, in situ.](/blog/wp-content/2015/12/new-white-switch.jpg)
+
 I realised while I was popping off the old button and soldering on the new that I actually didn't need to order any buttons at all, of course.
 
 If you, like me, only use a single of your four remote buttons… just swap the bad one for a good one! My soldering is shocking but the original SMD work was pretty tidy and easy to get things on and off. The good news is it's a spacious enough board you probably don't need to worry too much about melting the wrong thing.
