@@ -11,7 +11,8 @@ include: [".well-known"]
 title:            Josh
 tagline:          '(the blog)'
 description:      'Nerding it up, by <a href="//twitter.com/joahua">@joahua</a>.'
-url:              http://josh.st
+url:              https://josh.st
+enforce_ssl:      josh.st
 
 author:
   name:           'Josh Street'
