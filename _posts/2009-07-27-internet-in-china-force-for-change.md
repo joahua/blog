@@ -10,15 +10,12 @@ tags:
   - china
   - cnnic
   - david bray
-  - é‡‘ç›¾å·¥ç¨‹
   - GFW
   - globalization
   - Golden Shield Project
   - internet access
   - netizen
   - politics
-  - æ‹å®¢
-  - ä¸­å›½
 ---
 The following post is an unedited essay I prepared for a subject on globalisation and China last semester, and investigates the role of the Internet particularly as an instrument of social change. Perhaps surprisingly, I argue that it is a reflective, rather than disruptive, utility in this particular social context.
 
