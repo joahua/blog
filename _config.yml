@@ -30,3 +30,4 @@ gems:
   - jekyll-feed
   - jekyll-paginate
   - redcarpet
+  - jekyll-sitemap
