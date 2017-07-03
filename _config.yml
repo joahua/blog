@@ -27,7 +27,11 @@ github:
   repo:           https://github.com/joahua/joshst
 
 plugins:
+  - jekyll-minifier
   - jekyll-feed
   - jekyll-paginate
   - redcarpet
   - jekyll-sitemap
+
+jekyll-minifier:
+  exclude: 'atom.xml'
