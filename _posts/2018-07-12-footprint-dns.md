@@ -12,9 +12,9 @@ tags:
 
 A while back I stumbled across a FootprintDNS host on a few Office 365 services, and wondered what it was up to. A [few](https://techcommunity.microsoft.com/t5/SharePoint/What-is-the-domain-quot-nrb-footprintdns-com-quot/td-p/170502) [others](https://www.reddit.com/r/sysadmin/comments/4y7pxf/footprintdnscom_microsoft_dns_tracking/) were wondering the same. There didn't seem to be an answer out there.
 
-We've been looking into using Azure Traffic Manager for load balancing and in particular their Real User Monitoring feature. In the process of auditing how this works (noting it uses client-side JS), it became clear that it's using the footprintdns.com for tracking.
+We've been looking into using Azure Traffic Manager for load balancing and in particular their [Real User Monitoring feature](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-create-rum-web-pages). In the process of auditing how this works (noting it uses client-side JS), it became clear that it's using the footprintdns.com for tracking.
 
-http://www.atmrum.net/client/v1/atm/fpv2.min.js is worth a read. It uses `.clo.footprintdns.com` subdomains for tracking.
+[https://www.atmrum.net/client/v1/atm/fpv2.min.js](https://www.atmrum.net/client/v1/atm/fpv2.min.js) is worth a read. It uses `.clo.footprintdns.com` subdomains for tracking.
 
 Ostensibly the purpose is to learn about real user latency - which means that anecdotal reports of this service taking a while to load are sensible, and in line with its purpose!
 
