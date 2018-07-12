@@ -19,3 +19,5 @@ We've been looking into using Azure Traffic Manager for load balancing and in pa
 Ostensibly the purpose is to learn about real user latency - which means that anecdotal reports of this service taking a while to load are sensible, and in line with its purpose!
 
 For those wondering if this is blockable, it seemingly would have no impact on end-user experience, but of course in aggregate means your users aren't going to have Traffic Manager balance requests toward lower latency endpoints. Probably not a big issue if you are security conscious.
+
+If you would like to try something more targeted – on the off chance there are other, undocumented uses of this domain – you could instead block `atmrum.net` (and subdomains) which hosts the loader script for Azure Traffic Manager's Real User Monitoring.
