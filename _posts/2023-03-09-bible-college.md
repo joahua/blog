@@ -14,7 +14,7 @@ tags:
 ---
 
 
-Hello, fictive reader. Blog's been quiet for years. 
+Hello, fictive reader. Blog’s been quiet for years. 
 
 Working in government has significant chilling effects on public speech, but suffice to say Canberra has been an (unexpected) blessing in terms of work. We've been here about seven years and it's been a great journey in design, tech, climate -- and consultancy scale-ups.
 
@@ -24,7 +24,7 @@ I finished up at [Pragma](https://www.pragma.com.au) and am taking the year to s
 
 Getting to the point of 'quit your job and study the bible' is a bit of a journey. More to be said than is said here, so do reach out if you would like to chat!
 
-# You're studying what now?
+# You’re studying what now?
 
 I've enrolled full time at [Ridley College](http://ridley.edu.au), based in Melbourne, but studying online.
 
@@ -54,7 +54,7 @@ This is a strange choice. But the bible describes a strange people. The main gam
 
 I am trusting God will graciously use this year for greater understanding and transformation. Now, 'knowledge puffs up'. If you talk to God, please ask it doesn't give selfish pride but the fruit of the Spirit - love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control.
 
-People I've told this have, broadly, responded with "you do you, you've got to look after yourself" (self-actualisation, I suppose?)[^2] or perhaps presumed it is a bit of a needing-out, credentialing exercise, maybe lacking in rigour, and accordingly I will be bored.
+People I've told this have, broadly, responded with "you do you, you've got to look after yourself" (self-actualisation, I suppose?) [^2] or perhaps presumed it is a bit of a needing-out, credentialing exercise, maybe lacking in rigour, and accordingly I will be bored.
 
 This is far from true. I am grappling with the firehose of new things common to new endeavours -- perhaps God already answering that prayer about pride.
 
@@ -65,4 +65,4 @@ But God is not far off, and so I pray in the Spirit for perseverance in studies 
 
 [^1]: deSilva, David A.. An Introduction to the New Testament: Contexts, Methods and Ministry Formation, InterVarsity Press, 2018.
 
-[^2] I doubtless contributed to this thinking, maintaining a professional interest in instructional design from an organisation who have done a bunch of good thinking about online delivery!
+[^2]: I doubtless contributed to this thinking, maintaining a professional interest in instructional design from an organisation who have done a bunch of good thinking about online delivery!
