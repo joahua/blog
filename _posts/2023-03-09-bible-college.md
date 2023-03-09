@@ -24,7 +24,7 @@ I finished up at [Pragma](https://www.pragma.com.au) and am taking the year to s
 
 Getting to the point of 'quit your job and study the bible' is a bit of a journey. More to be said than is said here, so do reach out if you would like to chat!
 
-# You’re studying what now?
+## You’re studying what now?
 
 I've enrolled full time at [Ridley College](http://ridley.edu.au), based in Melbourne, but studying online.
 
@@ -32,7 +32,7 @@ Theology is studying God and religious belief - in this case, consistent with Ch
 
 Too jargony? Parse 'reformed/evangelical' as 'a focus on how God has spoken to us through the bible, and historical Jesus' life, death and resurrection'.
 
-# Can’t you just read the bible?
+## Can’t you just read the bible?
 
 (Or, my fav variant on this question: don't you _already_ know what is in the bible?)
 
@@ -46,7 +46,7 @@ Part of the humanities bag-of-tricks is considering context and form. Part of th
 
 The reality is real people wrote the words of life, to particular people at a particular time.
 
-# What’s the driver?
+## What’s the driver?
 
 A number of things, best told in person, got us to this decision point in late January.
 
@@ -62,6 +62,7 @@ While humanities study isn't new -- theological education, and full-time study, 
 
 But God is not far off, and so I pray in the Spirit for perseverance in studies this year!
 
+--
 
 [^1]: deSilva, David A.. An Introduction to the New Testament: Contexts, Methods and Ministry Formation, InterVarsity Press, 2018.
 
