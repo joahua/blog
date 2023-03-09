@@ -54,11 +54,11 @@ This is a strange choice. But the bible describes a strange people. The main gam
 
 I am trusting God will graciously use this year for greater understanding and transformation. Now, 'knowledge puffs up'. If you talk to God, please ask it doesn't give selfish pride but the fruit of the Spirit - love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control.
 
-People I've told this have, broadly, responded with "you do you, you've got to look after yourself" (self-actualisation, I suppose?) [^2] or perhaps presumed it is a bit of a needing-out, credentialing exercise, maybe lacking in rigour, and accordingly I will be bored.
+People I've told this have, broadly, responded with "you do you, you've got to look after yourself" (self-actualisation, I suppose?) [^2] or perhaps presumed it is a bit of a nerding-out exercise, maybe lacking in rigour. Others still wonder if it is credentialling - accordingly, I will be bored.
 
-This is far from true. I am grappling with the firehose of new things common to new endeavours -- perhaps God already answering that prayer about pride.
+To be honest, I am grappling with the firehose of content right now. Perhaps common to new endeavours, perhaps God already answering that prayer about pride.
 
-While humanities study isn't new -- theological education, and full-time study, is. Transitioning from 4-day-a-week work to a full-time course load has also been genuinely difficult to keep up with. Kids of course doesn't pause, started a new school this year, have their own full little lives, and the rest of life remains busy and (a little unpredictably) full.
+While humanities study isn't new, theological education, and full-time study, is. Transitioning from 4-day-a-week work to a full-time course load has also been genuinely difficult to keep up with. Kids of course doesn't pause, started a new school this year, have their own full little lives, and the rest of life remains busy and (a little unpredictably) full.
 
 But God is not far off, and so I pray in the Spirit for perseverance in studies this year!
 
