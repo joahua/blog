@@ -12,7 +12,7 @@ tags:
   - mise
 ---
 
-Following the setup instructions from [Ruby | mise-en-place](https://mise.jdx.dev/lang/ruby.html) I hit a brief snag. It references asdf-ruby, but didn't appear to work. Bundler errors refer to:
+Following the setup instructions from [Ruby / mise-en-place](https://mise.jdx.dev/lang/ruby.html) I hit a brief snag. It references asdf-ruby, but didn't appear to work. Bundler errors refer to:
 
 `~/.local/share/mise/plugins/ruby/rubygems-plugin/rubygems_plugin.rb`
 
